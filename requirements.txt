@@ -1,0 +1,9 @@
+opencv-python
+mediapipe
+numpy
+torch
+msgpack
+websockets
+streamlit
+matplotlib
+scipy
